@@ -1,5 +1,10 @@
 # MISParser
 
+![header](images/header.png)
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Blu3Tapir/MISParser)
+[![GitHub license](https://img.shields.io/github/license/Blu3Tapir/MISParser)](https://github.com/Blu3Tapir/MISParser/blob/master/LICENSE)
+
 MISParser は [MISP](https://www.misp-project.org/) に登録されている情報から、使用したいデータのみを抽出してデータセットを作成するツールです。外部リソース（VirusTotal）の情報を付加することもできます。
 
 ## DEMO
